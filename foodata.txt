@@ -1,0 +1,53 @@
+﻿Food,calories,protein,carbohydrates,fat
+chicken,267,55,0,6
+white rice,205,4,45,0
+salmon,309,43,0,14
+avocado,322,4,17,30
+peanut butter,191,7,7,16 
+grapes,104,1,27,0 
+black bean burger,120,11,13,4
+fried chicken,294,28,10,15
+house salad,75,2,5,5
+cliff bar,240,10,44,5
+nature valley Bar,190,4,29,6
+pizza slice,200,9,29,6
+banana,98,1,23,0
+wheat roll,155,7,25,2
+turkey slice,24,5,1,0
+white bread,67,2,12,1
+eggs,75,7,1,5
+pasta,200,7,41,2
+pancakes,194,5,41,1
+steak,217,26,0,12
+tomato sauce,13,1,1,1
+pork,297,26,0,21
+ham,69,11,2,2
+milk 2%,130,8,12,5
+brown rice, 160,3,35,1
+milk fat free,90,8,13,0
+cheddar cheese,115,6,1,9
+milk whole,150,8,12,8
+protein bar,200,20,16,6
+honey nut cheerios,210,4,60,1
+apple jacks,160,2,37,2
+ham and cheese sandwich,352,16,25,20
+peanut butter and jelly sandwich,365,13,19,41
+turkey and cheese sandwich,450,35,52,13
+baked potato,93,3,21,0
+french fries,250,4,42,8
+chicken stir fry,225,27,14,6
+vegetable stir fry,115,4,25,1
+broccoli,31,3,6,0
+coffee,1,0,0,0
+carrots,30,1,7,0
+light beer,100,1,6,0
+heavy beer,150,2,13,0
+red wine,125,0,5,0
+ice cream,210,3,20,13
+almonds,164,6,6,14
+clam chowder,154,8,19,5
+lobster,128,27,0,1
+doritos,150,2,18,8
+pear,101,1,27,0
+turkey sausage,130,13,2,8
+green beans,28,1,6,0

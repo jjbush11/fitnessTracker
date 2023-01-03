@@ -1,0 +1,39 @@
+brekky:
+Food name: chicken
+Calories: 267
+Protein: 55
+Carbohydrates: 0
+Fat: 6
+
+Total calories: 267
+Total protein: 55
+Total carbohydrates: 0
+Total fats: 6
+
+
+brekky:
+Food name: ham
+Calories: 69
+Protein: 11
+Carbohydrates: 2
+Fat: 2
+
+Total calories: 336
+Total protein: 66
+Total carbohydrates: 2
+Total fats: 8
+
+
+brekky:
+Food name: french fries
+Calories: 250
+Protein: 4
+Carbohydrates: 42
+Fat: 8
+
+Total calories: 586
+Total protein: 70
+Total carbohydrates: 44
+Total fats: 16
+
+
